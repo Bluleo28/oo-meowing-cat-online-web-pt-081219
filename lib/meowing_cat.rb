@@ -5,6 +5,9 @@ def name =(name)
   end 
 class Cat 
   
-def maru.meow   
+def maru
+    @meow
+  end 
+end
   
   
