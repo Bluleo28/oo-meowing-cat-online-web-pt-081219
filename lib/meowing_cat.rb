@@ -1,11 +1,11 @@
 class Cat
   
-def name ; (name)
+def name =(name)
     @name = name 
   end 
   
-def maru
-    @meow
+class Cat 
+  
   end 
 end
   
