@@ -1,7 +1,7 @@
 class Cat
   
-def name ; Cat.new 
-    name = "Maru"
+def name =(name)
+    @ame = name 
   end 
 class Cat 
   
