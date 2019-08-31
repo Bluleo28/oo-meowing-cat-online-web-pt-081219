@@ -3,3 +3,5 @@ end
 
 def name = Cat.new 
     @name = name
+end 
+  
