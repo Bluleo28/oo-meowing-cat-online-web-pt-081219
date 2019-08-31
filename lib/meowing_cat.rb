@@ -1,10 +1,11 @@
 class Cat
   
-def name =(name)
-    @name = name 
+def name =(cat_name)
+    @cat_name = cat_name 
   end 
   
-class Cat 
+class Cat
+  
   
   end 
 end
