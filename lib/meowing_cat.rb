@@ -1,7 +1,7 @@
 class Cat
 end
-name = Cat.new 
-name = "Maru"
+Def name = Cat.new 
+    name = "Maru"
   end 
 end
   
