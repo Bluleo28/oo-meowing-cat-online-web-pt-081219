@@ -1,12 +1,8 @@
 class Cat
-end 
+attr_accessor:name 
   
-def name= cat_name
-    @cat_name = cat_name 
-  end 
-  
-class Cat
-def 
+def meow
+  put "meow"
   
   end 
 end
