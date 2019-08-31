@@ -1,5 +1,5 @@
 class Cat 
 end 
 
-def name 
+def name = Cat.new 
 end 
