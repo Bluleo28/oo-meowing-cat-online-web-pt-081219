@@ -1,7 +1,7 @@
 class Cat
   
 def name =(name)
-    @ame = name 
+    @name = name 
   end 
   
 def maru
